@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The faithful description of pure love in perfect peace which is the bond of all perfections. Written by Francis Jenings R. and now published for their sakes who are subject to be burthened and tormented.</title>
+            <author>Jenings, Francis.</author>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46747</idno><idno type="EEBO-CITATION">99831434</idno>
+  <idno type="VID">35897</idno>
+  <idno type="EEBO-PROQUEST">2240906529</idno>
+  
+            <idno type="STC">Wing J556</idno>
+            <idno type="STC">ESTC R219994</idno>
+            <idno type="PROQUEST">99831434</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831434e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35897)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2050:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The faithful description of pure love in perfect peace which is the bond of all perfections. Written by Francis Jenings R. and now published for their sakes who are subject to be burthened and tormented.</title>
+                  <author>Jenings, Francis.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.B. and may be had at Simon Orchard's house, near the May-pole in the Strand, next door to the King's Head,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Edinburgh University Library, Edinburgh.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">God --  Love --  Early works to 1800.</term>
+               <term type="topical_term">God --  Worship and love --  Early works to 1800.</term>
+               <term type="topical_term">Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35897:1"/>
+            <p>The Faithful DESCRIPTION OF Pure Love in perfect Peace, Which is the BOND of all perfections.</p>
+            <p>Written by <hi>Francis Jenings</hi> R. and now published for their sakes who are subject to be burthened and tormented.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 37.11.</hi>
+               </bibl>
+               <p>But the meek shall inherit the earth, and shall delight themselves in the abundance of Peace.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. B.</hi> and may be had at <hi>Simon Orchard's</hi> house, neat the May-pole in the <hi>Strand,</hi> next door to the <hi>Kings Head,</hi> 1659.</p>
+         </div>
+         <div type="preface">
+            <pb n="2" facs="tcp:35897:2"/>
+            <p>THe two-fold crosse in Wisdoms hand one to crosse the earthly mind, the other to crosse the heavenly mind; if the earthly mind be gone forth af<g ref="char:EOLhyphen"/>ter its designs im<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aged and enter'd into earthly matter, which the Heavens dispose of in Wisdom's hand; for it is All-ways-dams work to crosse or dam up all the waies and wiles of man fallen into the Serve-pains wisdom, and so he creates and makes the old earthly A-dam; The other that crosses the heaven<g ref="char:EOLhyphen"/>ly mind, is that which is called the second <hi>Adam.,</hi> which was from Heaven heavenly; if there be a fear in the soul or soulary part of man, of damnation or exclusion from Heaven, and that because he cannot have his heavenly mind fulfilled by knowing of his name written in the book of Life; it runs out to see, and to find some way or work wherein he may be accepted for so doing, or so walking, and so are a running out in ways and works to find the way into Heaven; But the second <hi>Adam</hi> in wayes-dams hand by light disco<g ref="char:EOLhyphen"/>vers them in their selfish wayes and works, which they are in for their own salvation, which is their own end to save their soul: so that the crosse or dam is forced in the earthly mind, and the heavenly mind; for they cannot take up the crosse freely, because they are not free for want of a death to all self-ends; therefore see this, O ye people, all that live in earthly minds and heavenly minds, that there is a twofold crosse, one to cru<g ref="char:EOLhyphen"/>cifie Christ, and another to crucifie the earthly mind; the Crosse that Cruci<g ref="char:EOLhyphen"/>fies Christ, is, to stand in your Shops, Pulpits or preaching places, acting or speaking those things that Light allows not of: those that are in Shops or cal<g ref="char:EOLhyphen"/>lings, making or selling commodities to please the pride of the eye, or to ful<g ref="char:EOLhyphen"/>fill the lust of the flesh, they that stand in this Cross, Crucifies Christ; and they that withdraws from this, crosses the earthly mind; therefore know this thou that readest, or hearest, that this life is sprung forth on earth, to cross and wound every selfish mind, and self-designs, that will do more for self than for their neighbours, in providing better bits for selfs-pallate then he will for his neighbour, or better clothing, or lodging, or housing, or take any way more care for self then for his neighbour, for by loving his neighbour as himself, Christ is made manifest in him fulfilling the whole Law of God given to man for that end, that every man should do to another in every thing as he would have another do to him.</p>
+            <closer>
+               <signed>
+                  <hi>Rowedger Criup.</hi> O</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="3" facs="tcp:35897:2"/>
+            <head>The faithfull Description of pure Love in perfect Peace.</head>
+            <div type="part">
+               <p>KNow this, that in the Eternall or fixed, or redeemed, or free state and con<g ref="char:EOLhyphen"/>dition; the words or actions of another cannot cause and compell any change to one so standing either by affection or affliction. Therefore strive after such a state by opposing that that doth arise to disturb, untill thee hast gotten power over all disturbers in thy self; for if thy content, or peace, or well-being, consists or depends on others words or actions, or on any thing else without thee; these being all subject to mutation, so must that content or peace, or well-being that depends on them, be subject to mutation likewise; and while it is so with any one, they have more life abroad in corruption and vanity then they can command; and so are Servants to corruption, and subject to mutation and anguish in their minds, Souls, or invisible part, which is of highest or most concernment; and such a one is not yet come to the Eternall fixed redeemed free state and station, which hath power over all things. And moreover if ano<g ref="char:EOLhyphen"/>ther be brought into so high a condition in himself, and I am not, what doth that availe me, unless I live in him or them by faith, so as to strive after the same condition of fixed freedom; or if another be bound by their affection to vanity and corruption, what is their bond to me, unlesse I come into it, and if I do come into their bond which is their affection, it shall be onely to help them to break it off from that vanity and corruption, that keeps them in trouble and darkness, and disquiet, that so thereby they may be brought out of darkness and trouble into the light and Life of God, which is so free, that it cannot be dam'd up, bounded or limitted; Thus in truth it is every ones own condition, or state, and actions that is of concernment to them; and there<g ref="char:EOLhyphen"/>fore chiefly to be looked after by them, untill the work of redemption be finished in themselves, and then such a one is fit to be instrumentall towards the redemption of another or others; but here is the mistake or folly and custome of most; when they are troubled or tormented, they lay others in the fault, complaining of them for one thing or other, which they think and con<g ref="char:EOLhyphen"/>clude they have done amiss; when as indeed the cause of their trouble is in themselves, for if all were right at home or in themselves, then there would not be any trouble, for all trouble and disquiet arises and is in every ones own selfe's breast, and surely the fault must be where the trouble is, for every one hath in themselves their own tormentor, which arises by reason of their untuled passions or affections, which God from his infinite love to mankind hath so or<g ref="char:EOLhyphen"/>dered, that thereby man may be brought (by his ownly begotten Son, which lighteth every man that cometh into the World) to himself, which son-light light is in every ones own Conscience, either accusing, or excusing, which will
+<pb n="4" facs="tcp:35897:3"/>lead all that follow it out of all the vissible worlds vanities, and out of all the pleasures of the senses into it self which is so excellent as that it far exceeds all that can be said of it, so that for the future, my friend, whosoever thou art, that art troubled and tormented, remember and consider that the fault and cause is in thy self, for want of giving or yielding up all thy life love or affections out of that that is created into the life of God in thee, which would lead thee into it self, and so give thee power over all trouble and torment in thy self: there<g ref="char:EOLhyphen"/>fore stop, or strive to stop that, that would run out to lay the fault on others; and torment and Warr within thee, untill thee hast overcome and turn'd out that that would lay the fault on others, and doth disturb thy peace, rest, and quiet; that person that is redeemed from all things, hath power over all things, and can command peace and rest in himself at any time; and he that can do so hath no cause to complaine of any thing upon his own account that another doth; but if such complain, or seem to dislike what another doth, it is out of puer Love to them for their good, which may be demonstrated severall wayes; but he that is not wholly redeemed, and so hath not power over all things, cannot command peace, rest, and quiet in himself at all times, because his life, love or affection is in and to something that is created or composed, and all that is created or composed, is subject to mutability and disturbance, or dis<g ref="char:EOLhyphen"/>quiet; and such a one complaining at what another doth, and reproving of him, being himself troubled at it, doth not reprove from pure love to the other, but from the trouble in himself, and so complaines and reproves upon selfish account, so that there may be a vast difference between two's complaining at one and the same thing; one may complaine and reprove from pure love to the person that doth the thing complained of, onely aiming at the others well being, he himself being in himself at perfect rest, while he doth so com<g ref="char:EOLhyphen"/>plain; another may complain of, and reprove the same person for the same thing, and that from envy, if he himself, be in himself over-powred with trou<g ref="char:EOLhyphen"/>ble, for then he complaines and reproves from the trouble, and not from pure love; for that love that can be troubled, or stirred, or burthened, is not pure, but hath some self end; pure love beareth all things without being troubled, or stirred, or burthened; and that love that cannot bear all things, wants to be purified from that that burthens it. Alas alas where is that Love to be found in practise amongst men and women in this day, wherein Love is so much tal<g ref="char:EOLhyphen"/>ked of; that is pure without self-end; 'tis hard to find it, yet it may be found acting in a few bodyes of flesh. Wouldest thou know in what bodyes of flesh it is, then try till thou findest? dost thou believe that it was in that body of Flesh that was crucified without the Gate at <hi>Jerusalem,</hi> call'd Christ; if thou dost, then, where wilt thou look for it now? wilt thou look for it in externall great<g ref="char:EOLhyphen"/>ness, or amongst those that live in finer houses, and wear better Habit, eate better food, drink better drink, use and incroach more land, lodge and other<g ref="char:EOLhyphen"/>wayes better provide for themselves then they will for every one? I say, he that thinks to find this pure Love amongst such, will be mistaken; for this is
+<pb n="5" facs="tcp:35897:3"/>self Love that this acts, because it provides better for self, then for every one. And where this pure Love is, that is free from self-end, it causes all those bodys of flesh in which it hath dominion, to live no higher in externall enjoyments, then they can give, and will give, and do give, and have given to every one as good that will come to them, or that have not more then they. Who was lower in externall enjoyments in Christs time, than he: though he might have had enough; yet he would not: 'tis the willing that is accepted of. Who was more dispised, and set at naught, and had more evil said of, than Christ and his followers had in his time? In and over which this puer Love had dominion, And was it not the greatest professors that did then so asperse, despise, and set him at naught? If that was the portion and condition of that body of flesh then, in and over which this pure Love had dominion, why then should any now in whom this pure Love hath dominion expect better? Or why should any now look for or expect this pure vertue in any other garbe or dress in the estimati<g ref="char:EOLhyphen"/>on and eyes of the world, and such who are onely professors, though never so high, then it was in them? No, the same portion now belongs to the same pra<g ref="char:EOLhyphen"/>ctise of self deniall, and that from the same spirit as it then did. And this is no wonder to those that live in and act forth the fruits of pure Love, because they see it to be all for good, and therein are fully satisfied, and can and do rejoyce in the mid'st of all the worst that wicked men can do unto them, and can and do daily adventure all that they have in the externall being, life and all, from this pure love to them, and that for their sakes, who plot and daily contrive, and act towards their externall ruin, men in darkness and ignorance may well aske what manner of Love is this, because in truth they are wholly ignorant of it, and must be so long as they love the World, and the things that are in it; for so long this Love which is the Love of the Father is not in them, governing of them, and so not known by them, and this their condition of darkness and ignorance which begets envy do the Children of pure Light and Love continu<g ref="char:EOLhyphen"/>ally labour to bring them forth of, even to the hazzarding and free-giving up of their lives, and what ever else that may be counted neer and deer to them, not sparing any thing, or the making use of any meanes that they in light see necessary for the accomplishing of their Redemption, expecting no reward but this for it, which is, to be deprived of their externall lives and livelyhoods by them, which is a sufficient reward; and now by this time any Reader, who hath but an indifferent sight, may find out those bodyes of flesh in and over whom this pure Love hath dominion; and also by this description may find whether this vertue be King in and over his own body of flesh, for there is the best fin<g ref="char:EOLhyphen"/>ding of it; and if thou dost judge that it is not yet reigning in any body of flesh now, yet let not that divert thee from persuing after it, and giving up to it by self deniall, untill it be King and supreme in thee; seeing it is such an ex<g ref="char:EOLhyphen"/>cellent governour, be ambitious to be its first subject; there is no hurt can come to thee by such ambition, therefore fear not, and though thou lookest for this Love through all the forms of Religion that are or shall be in this
+<pb n="6" facs="tcp:35897:4"/>Nation; and canst not find it amongst them, yet faint not, but turn in and seek for it in thy self, there thou mayst find it (and there it is best found) in power without form; yet in all forms, forming all and informing all that yields to its power, until it hath brought them through all forms into it self, which is the pure love of God, from which he gives forth Laws to men, and re<g ref="char:EOLhyphen"/>proves them for the breach of those Laws; and also brings judgment upon them, and complains of them for evil doing, and likewise woes, perswades, en<g ref="char:EOLhyphen"/>treats, and desires them to leave their evil waies and doings; and all this, and more, meetly and only from his infinite love to mankind, that so thereby they may be brought to himself, which is their perfect rest and peace where no trou<g ref="char:EOLhyphen"/>ble is; for he is not troubled in himself at the actions of any, neither can he be; for if he either were, or could be troubled in himself at any thing, or by any thing, then he were not God, or the supream Beeing and Power, because that that could trouble him must have power over him, else it could not trou<g ref="char:EOLhyphen"/>ble him for that that troubles must have power over that that it troubles, else it would not suffer it to trouble it; for alwaies the troubler hath power over the troubled, so that the troubler is supream; That that hath power over all, cannot in it self be troubled by any thing or at any thing; and where this pure Love of God hath Dominion in and over any body of flesh, there the vvords or actions of others, cannot cannot cause or compel trouble in them, though they reprove or complain at the actions of others, yet it is from pure love to them, that so they may be brought out of vanity into God, who is their only rest: so then, that person that can be troubled is not yet fully redeemed, but wants to be redeemed from that that can cause or compel trouble in his mind. And the cause of this is from his being in love with some created thing, and hath not wholly given up all his life, love, or affection into Christ, which is Light, Life, and Love, pure without darkness, death, or self-end, which hath power over all things, and is mans Redeemer, which when man comes to live wholly in, he shall then be at perfect rest, having power over all things in him<g ref="char:EOLhyphen"/>self; and there is a rest into which the redeemed are entred, do enter, and shall enter, where no trouble, or sorrow, or anguish, or torment shall or can touch, seise, or affect, which is the eternal Sabbath in God, which is stillnesse, the beginning and end of all stirring, the eternal immutability; what can af<g ref="char:EOLhyphen"/>fect or afflict this? All affection and affliction is in that, and to that, and from that that is created: wouldest thou not be afflicted? then be not affected, or affect not any thing that is created. Love not the world, nor the things that are in the world: this is thy doom, if thou wilt be affected, in the same measure must thou be afflicted; therefore take thy choice, thou art free, God is just enough to those that either see, or live in us; All that is, must be consumed, broken to pieces, and brought to nothing, or to stillnesse, that God alone may be all in all: so it must be with thee before ever, or if ever thou come to live in him: therefore man if thou desirest to live in God, then be not mad and foo<g ref="char:EOLhyphen"/>lish, to compose and live in, or be in love with that that must be dissolv'd at
+<pb n="7" facs="tcp:35897:4"/>his bright and powerful appearance in judement to the world in thee. Happy is he that can say in sight, that the end of all things is at hand; but more hap<g ref="char:EOLhyphen"/>py is he that lives wholly in this sight or light, which is it self the end and beginning of all things; for such a one can truly say, that the end of all things is already come in him, and is enjoyed by him, for the World in him is dissolved by the purifying-fire of judgment in him, and while the world is a dissolving in him, that time is the day of judgment to him, and when it is dissolved, then is its end in him, and then also is the day of Judg<g ref="char:EOLhyphen"/>ment finished to him, he being then at the right hand, unto whom this sentence shall be uttered, Come you blessed of my Father receive the Kingdom prepa<g ref="char:EOLhyphen"/>red for you: for then he hath power over all things, and is entered into his re<g ref="char:EOLhyphen"/>gall state, being then fit there to sit, and not till then. This is man made or Cre<g ref="char:EOLhyphen"/>ated in the Image of God, wholly like him: here is the beginning united to the end. Man being lord of all, having ended his work on the six dayes, enters into the eternall Sabbath of rest in God, who is the beginning and the end of all Motion: <hi>Hallelujah.</hi>
+               </p>
+               <closer>
+                  <signed>Francis Jenings.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:35897:5"/>
+               <p>Man in Nature being thus brought forth, hath Laws given him by the light, life, or love of God which are dams or stops to prevent him from running further forth, that so he may turn in, by leaving all the out-matter where the Crosses are, un<g ref="char:EOLhyphen"/>til it hath brought him to it self, which is that vertue whence all things pro<g ref="char:EOLhyphen"/>ceed, &amp; by which all things are governed, it being without number or form, or beginning or end. O</p>
+               <p>In many things we offend all. In nothing there is no Offence, All Offences are in something, and from something, and to something: The more the Life is abroad in <hi>Babel,</hi> the more Crosses it hath: Thus is <hi>Babel</hi> brought forth which is Confusion and Disquiet.</p>
+               <figure>
+                  <head>The Creation.</head>
+               </figure>
+               <p>From the Onely into the many Ties or Chains of Hell; the farther any are from the Center, the lesse is their Central vertue, and the more Crosses they must expect; therefore retire, withdraw, turn in; no wonder, that all men who are swiftly running forth into <hi>Babel,</hi> do rage and swell with fury and madnesse against the Light, seeing it discovers their dark selfish designs, &amp; creats dams &amp; lets in their way, which brings trouble to them, by frustra<g ref="char:EOLhyphen"/>ting their vain imaginations which would lead them into more crosses, more vanity, &amp; more captivity to the Creation, or that that is brought forth: this course doth God take to redeem man out of trouble into himself, by Christ which is his light, &amp; life, &amp; love, &amp; Power, &amp; wisdom &amp; only begotten Son.</p>
+               <p>
+                  <hi>A brief Description how it is with Man united to his Maker; and how it is with him that is at a distance, or severed from his</hi> Maker, <hi>abroad in, &amp; in love with the</hi> Creati<g ref="char:EOLhyphen"/>on, <hi>or any thing that is visible, or created or com<g ref="char:EOLhyphen"/>posed.</hi>
+               </p>
+               <p>
+                  <hi>
+                     <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ore the life of man is abroad in the Creation, the farther it is from the Creator, which <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ght, life &amp; power: and the lesse the life of man is abroad or scattered in the Creation, <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>n earer it is to the Creator; and the nearer it is to the Creator, the more it is illuminated, <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ed, and empowred by him; so that it is of necessity, that all that are united to the <gap reason="illegible: torn page" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>ust have their affections wholly withdrawn from all that is in the Creation, created, or composed, <gap reason="illegible: torn page" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> it can be effected; Thus it is to be known in what degree or <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>easure any people or person stands in, as in relation to the light, life &amp; power of God in <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>em, by their being more or less abroad in the Creation, or by their being more or lesse in <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e with, and so bound to the Creation or to any thing that is visible or created, or composed, <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> man! consider whither thou art agoing? and where, or in what thy life, love, or affections, <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ight is? If in the Creation, or any thing that is created, then crosses, trouble, or disqui<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> sorrow and anguish, must be thy portion; but if in God, then peace and rest unaltera<g ref="char:EOLhyphen"/>
+                     <gap reason="missing" extent="1+ pages">
+                        <desc>〈1+ pages missing〉</desc>
+                     </gap>
+                  </hi>
+               </p>
+               <pb facs="tcp:35897:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
